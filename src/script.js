@@ -13,8 +13,8 @@ function random(){
 
 container.addEventListener('click', (e) => {
   if(e.target.classList.contains('change')){
-    gato.style.cssText = 
-    'display: block'
+    body.style.cssText = 
+    'background-image: url(./img/images.jpeg);'
   }
 })
 

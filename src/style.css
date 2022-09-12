@@ -10,13 +10,14 @@
 }
 
 .resu {
-  width: 600px;
-  margin: 20px auto;
-  margin-top: 9%;
+    /* display: none; */
+    width: 600px;
+    margin: 20px auto;
+    margin-top: 9%;
 }
 img {
-  display: none;
-  width: 80%;
+    display: none;
+    width: 80%;
 }
 
 body {
